@@ -327,3 +327,14 @@ header.masthead p {
 .area-formulario iframe {
   width: 100%;
 }
+
+footer {
+  padding: 20px;
+  min-height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #000;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
